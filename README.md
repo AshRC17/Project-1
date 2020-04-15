@@ -1,2 +1,2 @@
 # Project-1
-Project 1 GitHub Repository for Team AELAJ
+Project 1 GitHub Repository for Team LAEAJ
