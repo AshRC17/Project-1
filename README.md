@@ -13,7 +13,7 @@ Team members: Lisa Ashway
               Jonathan Vallecillo
 
 This project analyzes the possible correlation between Economic activity and more specifically GDP/Unemployment rates vs
-Air pollution for a time period between 2005 and 2013
+Air pollution for a time period between 2005 and 2016
 
 Data files: https://github.com/AshRC17/Project-1/tree/master/Resources/
 
