@@ -13,6 +13,7 @@ This project analyzes the possible correlation between Economic activity and mor
 Air pollution for a time period between 2005 and 2016
 
 Data files: https://github.com/AshRC17/Project-1/tree/master/Resources/
+Write Up: https://docs.google.com/document/d/1PqBxojgyDFKOaKTaGzVTjkPRuiXvxNYA4_tWXBnTW3M/edit
 
 
 Technologies Used: jupyter notebook, pandas, matplotlib, API, MSPowerpoint, GITHUB, Python.
